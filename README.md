@@ -1,4 +1,4 @@
-# Spotify Audio Features Analysis (R)
+# Spotify Data Analysis Using R 
 
 ## Executive Summary
 This project explores how Spotify audio features relate to track popularity using exploratory data analysis (EDA). Using nearly 114,000 tracks across 125 genres, the analysis investigates whether musical characteristics such as danceability, energy, and valence meaningfully influence popularity. Results show that popularity is only weakly correlated with audio features, suggesting external factors play a larger role.
