@@ -15,10 +15,10 @@ This project is intended as an **academic data analysis exercise** using R.
 ---
 
 ## Dataset
-- **Source:** Public Spotify Tracks Dataset (CSV)
-- **Tracks:** 113,999
-- **Genres:** 125
-- **Features:** 21 total variables
+
+This project uses the **Spotify Tracks Dataset** sourced from Kaggle.  
+It contains ~114,000 songs with audio features (popularity, danceability, energy, valence, etc.) and genre information.  
+Source: https://www.kaggle.com/datasets/maharshipandya/-spotify-tracks-dataset
 
 ---
 
@@ -55,17 +55,25 @@ This project is intended as an **academic data analysis exercise** using R.
 
 ## Visualizations
 
-### Top 10 Genres by Average Popularity
-![Top Genres](plots/top_genres_avg_popularity.png)
+### 1. Top 10 Genres by Average Popularity
 
-### Danceability vs Popularity
-![Danceability](plots/danceability_vs_popularity.png)
+![image alt](https://github.com/Tanishka-001/spotify-data-analysis-using-R/blob/283498b83d76683aec1b5312a2c00a68cffcac51/top_genres_avg_popularity.png)
 
-### Energy vs Popularity
-![Energy](plots/energy_vs_popularity.png)
 
-### Valence vs Popularity
-![Valence](plots/valence_vs_popularity.png)
+### 2. Danceability vs Popularity
+
+![image alt](https://github.com/Tanishka-001/spotify-data-analysis-using-R/blob/283498b83d76683aec1b5312a2c00a68cffcac51/danceability_vs_popularity.png)
+
+
+### 3. Energy vs Popularity
+
+![image alt](https://github.com/Tanishka-001/spotify-data-analysis-using-R/blob/283498b83d76683aec1b5312a2c00a68cffcac51/energy_vs_popularity.png)
+
+
+### 4. Valence vs Popularity
+
+![image alt](https://github.com/Tanishka-001/spotify-data-analysis-using-R/blob/283498b83d76683aec1b5312a2c00a68cffcac51/valence_vs_popularity.png)
+
 
 ---
 
